@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+#hello{
+    font-size: 30px;
+}
+h1{
+    color: darkorange;
+    font-size: 40px;
+    font-weight: bold;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(243, 236, 238);
+    font-weight: bold;
+}
+.top-one{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.top-one img{
+    height: 100%;
+    width: 100%;
+}
+#top-text{
+    padding: 50px;
+}
+.upper-box{
+    background-image: url("personal-images/header-bg.png");
+    background-position: center;
+    height: 450px;
+    background-size: cover;
+
+}
+section{
+    height: 600px;
+    padding-bottom: 100px;
+    
+}
+.biography{
+    background-image: url("personal-images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bio-edit{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.bio-edit img{
+    width: 100%;
+}
+#bio-text{
+    padding-top: 200px;
+}
+#latest{
+    text-align: center;
+    font-size: 60px;
+}
+.work-images{
+    background-image: url("personal-images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+.work-edit{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 1%;
+}
+.work-edit img{
+    width: 100%;
+}
+.contact{
+    background-image: url("personal-images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+#client{
+    text-align: center;
+    font-size: 50px;
+}
+.end{
+    width: 100%;
+    text-align: center;
+}
+#moccy{
+    font-size: 30px;
+}
+#mail{
+    width: 45%;
+    margin: 0 auto;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    border-radius: 5px;
+    color: rgb(243, 236, 238);
+    
+}
+#deco{
+    text-decoration: none;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+}
